@@ -15,13 +15,13 @@
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "KR"
-title                    : "녹는 버터"
+locale                   : "South Korea"
+title                    : "소브드;언제나 진주처럼 반짝이며 빛나는✨"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "버터"
-description              : "The story of youngButter melting"
-url                      : "https://0Butter.github.io"
+subtitle                 : "SOVD"
+name                     : "소브드"
+description              : "언제나 진주처럼 반짝이며 빛나는."
+url                      : "https://Sovd-Pearl.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "버터"
+  name             : "소브드"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "얼레벌레 시작하기"
+  bio              : "빛나는 사람"
   location         : "Korea, South"
   email            :
   links:
