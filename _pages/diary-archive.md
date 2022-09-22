@@ -1,5 +1,5 @@
 ---
-permalink: /diary/
+permalink: /categories/diary/
 title: "Diary"
 toc: true
 toc_sticky: true
