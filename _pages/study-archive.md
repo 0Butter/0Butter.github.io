@@ -1,5 +1,5 @@
 ---
-permalink: /study/
+permalink: /categories/study/
 title: "Study"
 toc: true
 toc_sticky: true
