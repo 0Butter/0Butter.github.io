@@ -3,7 +3,7 @@ main:
   - title: "Diary"
     url: /categories/diary/
   - title: "Study"
-    url: /study/
+    url: /categories/study/
   - title: "카테고리"
     url: /categories/
   - title: "태그"
