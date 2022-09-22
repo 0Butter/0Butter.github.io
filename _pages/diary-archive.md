@@ -1,7 +1,7 @@
 ---
+title: "다이어리"
 permalink: /categories/diary/
-title: "Diary"
-toc: true
-toc_sticky: true
-toc_label: "MYSELF"
+layout: category
+author_profile: true
+taxonomy: 
 ---
