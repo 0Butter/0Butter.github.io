@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Diary"
-    url: /categories/diary
+    url: /categories/diary/
   - title: "Study"
     url: /study/
   - title: "카테고리"
