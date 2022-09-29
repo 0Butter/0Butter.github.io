@@ -2,11 +2,11 @@
 main:
   - title: "Diary"
     url: /categories/diary/
-  - title: "Study"
+  # - title: "Study"
     url: /categories/study/
-  - title: "카테고리"
+  - title: "Blog"
     url: /categories/
-  - title: "태그"
+  - title: "Tags"
     url: /tags/
   # - title: "Sample Collections"
   #   url: /collection-archive/
