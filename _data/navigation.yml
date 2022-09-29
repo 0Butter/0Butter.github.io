@@ -2,9 +2,15 @@
 main:
   - title: "Diary"
     url: /categories/diary/
+  - title: "Plans"
+    url: /categories/plans/
+  - title: "Health"
+    url: /categories/health/
+  - title: "Memo "
+    url: /categories/memo/
   # - title: "Study"
     url: /categories/study/
-  - title: "Blog"
+  - title: "Everythin'"
     url: /categories/
   - title: "Tags"
     url: /tags/
