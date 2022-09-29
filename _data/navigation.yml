@@ -6,7 +6,7 @@ main:
     url: /categories/plans/
   - title: "Health"
     url: /categories/health/
-  - title: "Memo "
+  - title: "Memo"
     url: /categories/memo/
   # - title: "Study"
     url: /categories/study/
