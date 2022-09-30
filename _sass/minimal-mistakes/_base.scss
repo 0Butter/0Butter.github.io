@@ -294,8 +294,21 @@ nav {
 
   a {
     text-decoration: none;
-  }
+  
+    &:focus {
+      @extend %tab-focus;
+             }
+    
+   &:visited {
+    color: $link-color-visited;
+              }
 
+   &:hover {
+    color: $link-color-hover;
+    outline: 0;
+           }
+    } 
+  
   /* override white-space for nested lists */
   ul li,
   ol li {
