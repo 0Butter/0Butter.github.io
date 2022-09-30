@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "custom_white" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "custom_pearl", "custom_진주", "custom_white"
 
 # Site Settings
-locale                   : "South Korea"
-title                    : "소브드"
+locale                   : "KR"
+title                    : "진주"
 title_separator          : "-"
-subtitle                 : "SOVD; 언제나 진주처럼 반짝이며 빛나는✨"
-name                     : "소브드"
+subtitle                 : "진주; 언제나 진주처럼 반짝이며 빛나는✨"
+name                     : ""
 description              : "언제나 진주처럼 반짝이며 빛나는."
 url                      : "https://Sovd-Pearl.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "소브드"
+  name             : "진주"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "빛나는 사람"
+  bio              : "Pearl"
   location         : "Korea, South"
   email            :
   links:
